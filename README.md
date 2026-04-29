@@ -20,9 +20,9 @@ This project is a survey-based analysis of 3rd-year undergraduates in the Facult
 - Pandas  
 - Statistical Analysis  
 
-![Dashboard Screenshot](Output/output.png)
-![Dashboard Screenshot](Output/output2.png)
-![Dashboard Screenshot](Output/output3.png)
+![Dashboard Screenshot](Output/Output.png)
+![Dashboard Screenshot](Output/Output2.png)
+![Dashboard Screenshot](Output/Output3.png)
 
 ---
 
